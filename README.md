@@ -38,9 +38,11 @@ To get a local copy up and running follow these simple example steps.
 - Run `git clone https://github.com/karthykarthick/Ruby-Capstone-Project/`
 - Install [Ruby](https://ruby-doc.org/downloads/)
 - Install `bundle install`
-- Create a new workspace 
+- Create a new workspace in slack using your email-id
 - Run `rackup`
-- You can chat with the slack bot
+- You can chat with the slack bot using the commands
+ - say_hello
+ - get_latest_episode
 
 
 #### Testing
