@@ -13,8 +13,9 @@
 </div>
 <p align="center">The main goal is to implement the main concepts of Ruby</p>
 
+## vedio presentation
 
-
+[vedio link ](https://www.loom.com/share/4b9da1985461405f8d2aaf44cec137e1) 
 ## Built With
 
 - Ruby
