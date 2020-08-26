@@ -37,7 +37,9 @@ To get a local copy up and running follow these simple example steps.
 - Run `git clone https://github.com/karthykarthick/Ruby-Capstone-Project/`
 - Install [Ruby](https://ruby-doc.org/downloads/)
 - Install `bundle install`
-- Run `ruby bin/main.rb`
+- Create a new workspace 
+- Run `rackup`
+- You can chat with the slack bot
 
 
 #### Testing
@@ -51,10 +53,10 @@ To make any change,
 
 ## Authors
 
-👤 **Umair Arshad**
+👤 **Karthick harimoorthy**
 
 - Github: [@karthykarthick](https://github.com/karthykarthick)
-- Linkedin: [karthick-harimoortht](https://www.linkedin.com/in/karthick-harimoortht/)
+- Linkedin: [karthick-harimoortht](https://www.linkedin.com/in/karthick-harimoorthy/)
 
 ## 🤝 Contributing
 
