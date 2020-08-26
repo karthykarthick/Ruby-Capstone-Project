@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # config.ru
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 
