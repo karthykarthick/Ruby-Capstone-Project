@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require 'slack-ruby-bot'
-require './ruby-bot/bot'
-require './ruby-bot/commands/get_episodes'
+require_relative './ruby-bot/bot'
+require_relative './ruby-bot/commands/get_episodes'

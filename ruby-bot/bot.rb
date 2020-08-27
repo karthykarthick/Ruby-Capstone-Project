@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 module DriftingRuby
   # class
   class Bot < SlackRubyBot::Bot
