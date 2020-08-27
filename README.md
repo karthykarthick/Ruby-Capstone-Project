@@ -39,6 +39,7 @@ To get a local copy up and running follow these simple example steps.
 - Install [Ruby](https://ruby-doc.org/downloads/)
 - Install `bundle install`
 - Create a new workspace in slack using your email-id
+- Create new api in order to use the bot and  add it to the .env file
 - Run `rackup`
 - You can chat with the slack bot using the commands
  - say_hello
