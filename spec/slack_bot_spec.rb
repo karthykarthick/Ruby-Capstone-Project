@@ -6,8 +6,4 @@ describe 'HelloText' do
   it 'checks method' do
     expect(HelloText.say_hello).to eql('Hello! This is a Bot!')
   end
-
-  it 'checks method' do
-    expect(HelloText.say_hello(case1)).to eql('Hello')
-  end
 end
